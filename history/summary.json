@@ -4,7 +4,7 @@
     "url": "https://collegespace.ml",
     "icon": "https://favicons.githubusercontent.com/collegespace.ml",
     "slug": "college-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 899,
     "timeYear": 760,
     "dailyMinutesDown": {
+      "2022-03-07": 0,
       "2022-01-19": 810,
       "2022-01-18": 1440,
       "2022-01-17": 773,
