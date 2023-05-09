@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/collegespace.ml.ico",
     "slug": "college-space",
     "status": "up",
-    "uptime": "90.24%",
+    "uptime": "90.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.36%",
+    "uptimeYear": "86.64%",
     "time": 757,
-    "timeDay": 656,
-    "timeWeek": 466,
-    "timeMonth": 494,
+    "timeDay": 458,
+    "timeWeek": 463,
+    "timeMonth": 498,
     "timeYear": 739,
     "dailyMinutesDown": {
       "2023-03-23": 19,
@@ -72,8 +72,7 @@
       "2022-05-13": 1440,
       "2022-05-12": 1440,
       "2022-05-11": 1440,
-      "2022-05-10": 1440,
-      "2022-05-09": 1440
+      "2022-05-10": 1440
     }
   }
 ]
